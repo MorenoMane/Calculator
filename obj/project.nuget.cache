@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "r2f44Ird8x3jhDd7L3g+MHBcrzGwkxQJfNzeQXiI4UM5i/Kg+iYno+1fNif3GjnxiADKD8omnbVfaMT7phHxJg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\not_j\\Documents\\School\\Fall2023\\Program Paradigms\\Calculator\\Calculator.fsproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\not_j\\.nuget\\packages\\fsharp.core\\7.0.400\\fsharp.core.7.0.400.nupkg.sha512"
+  ],
+  "logs": []
+}
